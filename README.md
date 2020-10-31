@@ -14,7 +14,7 @@ prove that the quantum lower bound of element distinctness is <img src="https://
 focusing on the quantum walk algorithm for element distinctness proposed by Aaronson [2], which
 only takes <img src="https://render.githubusercontent.com/render/math?math=O(N^{2/3})"> queries.
 
-For more information, see <a href="https://github.com/mingweii/Element-distinctness-by-quantum-walk-algorithm/raw/main/ECE523_Final_Project_Report.pdf" target="_blank">ECE523 Final Project Report.pdf</a>
+For more information, see <a href="https://github.com/mingweii/Element-distinctness-by-quantum-walk-algorithm-IBM-Q/blob/main/ECE523_Final_Project_Report.pdf" target="_blank">ECE523 Final Project Report.pdf</a> and <a href="https://github.com/mingweii/Element-distinctness-by-quantum-walk-algorithm-IBM-Q/blob/main/Slide-Element%20Distinctness%20by%20%20Quantum%20Walk%20Algorithm.pdf" target="_blank">the slides</a>
 
 References:
 
