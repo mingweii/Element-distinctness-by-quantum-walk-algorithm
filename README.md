@@ -19,13 +19,13 @@ For more information, see <a href="https://github.com/mingweii/Element-distinctn
 References:
 
 [1] S. Aaronson and Y. Shi, "Quantum lower bounds for the collision and the element distinctness
-problems", J. ACM 51, 595{605 (2004).
+problems", J. ACM 51, 595-605 (2004).
 
-[2] A. Ambainis, "Quantum walks and their algorithmic applications", Int. J. Quantum Inf. 01, 507{
+[2] A. Ambainis, "Quantum walks and their algorithmic applications", Int. J. Quantum Inf. 01, 507-
 518 (2003).
 
 [3] H. Buhrman, C. Dürr, M. Heiligman, P. Høyer, F. Magniez, M. Santha, and R. de Wolf, "Quantum
-algorithms for element distinctness", SIAM J. Comput. 34, 1324{1330 (2005).
+algorithms for element distinctness", SIAM J. Comput. 34, 1324-1330 (2005).
 
 [4] M. Nielsen and I. Chuang, "Quantum computation and quantum information", 10th Anniversity
 Edition (Cambridge University Press, 2010).
