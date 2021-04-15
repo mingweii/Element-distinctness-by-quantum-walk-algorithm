@@ -1,5 +1,7 @@
-# Element-distinctness-by-quantum-walk-algorithm implemented by IBM Q Experience
-Duke University ECE523 Final Project in April 2017 by Yuqi Yun and Ming-Tso Wei
+# Element-distinctness-by-quantum-walk-algorithm implemented by IBM Q Experience in April 2017
+Duke University ECE523 Quantum Information Science instructed by Prof. Jungsang Kim at Duke University in Spring 2017.
+Final Project authored by Yuqi Yun and Ming-Tso Wei
+
 
 Element distinctness problem is determining whether all the elements in a set with N elements are
 all distinct. In other words, the goal is to find a subset with two or more equal elements. Generally,
